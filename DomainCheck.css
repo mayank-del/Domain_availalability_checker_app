@@ -1,0 +1,29 @@
+.Domain-check{
+    background: pink;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+.Domain-container{
+    display: flex;
+    height: 80px;
+    flex-direction: column;
+    align-items: center;
+}
+.domain-chk{
+    width: 200px;
+    display: flex;
+    height: 80px;
+    flex-direction: column;
+}
+#dom-comp{
+    margin-top: 20px;
+    border: none;
+    outline: none;
+    
+}
+#dom-comp-button{
+    margin-top: 20px;
+    cursor: pointer;
+}
